@@ -1,0 +1,108 @@
+.logo  {
+    display: flex;
+     width: 30%;
+}
+
+.menu {
+    width: 5%;
+    margin: 1rem;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.apps {
+    display: flex;
+}
+
+.v1,
+.d1,
+.c1 {
+    margin: 0.5rem;
+}
+
+.t1 {
+    margin:1rem;
+}
+
+.search {
+    width:20%;
+}
+
+.side {
+  display: flex;
+  justify-content: flex-start;
+   flex-direction: row;
+}
+
+.logo img {
+    padding: 0px;
+}
+
+.logo span {
+  font-size: 2rem;
+}
+
+.first {
+    display: flex;
+}
+
+.BigVideo {
+    margin-top: 2rem;
+}
+
+.BigVideo p {
+    font-family: sans-serif;
+    font-size: 1.4rem;
+}
+
+.views {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.prof {
+    width:4rem;
+}
+
+.corner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.corner span {
+    font-family: sans-serif;
+     font-size: 2rem;
+     font-style: bold;
+     margin:1rem;
+}
+
+.likes{
+  width: 30rem;
+}
+
+.sub {
+    font-size:1rem ;
+    font-style: bold;
+}
+
+.subscribe {
+    width: 12rem;
+    height: 5rem;
+}
+
+#searchBar {
+    width: 750px;
+    height: 50px;
+}
+
+.flex  {
+     display: flex;
+    flex-direction: column;
+    margin: 5rem;
+    align-items: flex-start;
+    margin-top: 0rem;
+}
